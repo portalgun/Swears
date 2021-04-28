@@ -1,0 +1,28 @@
+* HIERARCHY
+status
+win_std
+-win
+--cursors
+--pad
+---table
+----List_all (queries)
+-----LIST
+
+* KEYS
+
+
+* CLASS STRUCTURE
+_ init_
+refresh
+   get_dims
+   set_dims
+   handle args
+draw
+get_dims
+set_dims
+get_pos
+create_*
+refresh_*
+? activate_*
+? deactivate_*
+parse_cmd

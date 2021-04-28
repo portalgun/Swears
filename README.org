@@ -1,0 +1,5 @@
+General purpose, in-terminal data viewer/editor built in python.
+Originally concieved as an interface for managing experiment/simulation data.
+
+Building on vision and principles from indik:
+https://indik.github.io

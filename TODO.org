@@ -1,0 +1,32 @@
+* list of applications
+- less
+- file manager
+- sql manager
+- arango manager
+- exp manager
+- command prompt
+- terminal emulator
+* app
+- init function
+- nodes
+- current menu & index
+- command history
+- keys
+- parent
+- children
+- window assignment rules
+* app-menu (single screen)
+* swears-menu
+universal built in commands
+- q
+- esc (parent) ?
+- enter (activate pad)
+- reverse traverse nodes
+* Exp tracker menus
+normal view
+subj view
+incomplete
+complete
+exp details
+mod
+* Main
